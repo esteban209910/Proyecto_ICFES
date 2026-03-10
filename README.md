@@ -7,24 +7,6 @@ El objetivo es identificar patrones y relaciones entre variables como el estrato
 
 Para lograrlo, se implementó un pipeline de datos completo, que incluye extracción desde una API pública, procesamiento y limpieza de datos, almacenamiento en la nube y visualización mediante dashboards interactivos.
 
-🏗 Arquitectura del proyecto
-
-El flujo de datos implementado fue el siguiente:# Proyecto_ICFES
-API Datos Abiertos (ICFES)
-        │
-        ▼
-Extracción y limpieza de datos con Python
-        │
-        ▼
-Carga de datos en BigQuery (Data Warehouse)
-        │
-        ▼
-Conexión y modelado en Power BI
-        │
-        ▼
-Dashboard interactivo para análisis de datos
-Este enfoque permite manejar grandes volúmenes de datos y facilitar el análisis exploratorio y la visualización de información relevante.
-
 ⚙️ Tecnologías utilizadas
 
 Python
